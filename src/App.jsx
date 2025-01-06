@@ -3,7 +3,7 @@ import { Auth } from "./components/Auth";
 import { AppWrapper } from "./components/AppWrapper";
 import Cookies from "universal-cookie";
 import "./App.css";
-import { Chat } from "./components/Chat";
+import { Chat } from "./components/chat";
 
 const cookies = new Cookies();
 
